@@ -4,6 +4,6 @@ def mario
 end
 
 def toadstool
-  status = "Thank you Mario! But Our Princess Is In Another Castle!"
-  puts status
+  puts "Thank you Mario! But Our Princess Is In Another Castle!"
+  return "Thank you Mario! But Our Princess Is In Another Castle!"
 end
